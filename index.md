@@ -21,7 +21,7 @@ We provide a comprehensive demonstration of our proposed method across various s
 Note that the mentioned negative queries are provided only to CLAPSep, as neither AudioSep nor USS support negative queries.
 ## Language Queried TES for Synthetic Mixtures on AudioCaps
 
-<table>
+<table style="margin: 0 auto;">
   <thead>
     <tr>
       <th>Unprocessed</th>
@@ -129,7 +129,7 @@ Note that the mentioned negative queries are provided only to CLAPSep, as neithe
 
 ## Audio Queried TES for Synthetic Mixtures on ESC50
 
-<table>
+<table style="margin: 0 auto;">
   <thead>
     <tr>
       <th>Unprocessed</th>
@@ -198,7 +198,7 @@ Note that the mentioned negative queries are provided only to CLAPSep, as neithe
 
 ## Language Queried TES for Real-World Recordings from Freesound (DCASE 2024 Task 9 evaluation set (real))
 
-<table>
+<table style="margin: 0 auto;">
   <thead>
     <tr>
       <th>Unprocessed</th>
