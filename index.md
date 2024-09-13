@@ -19,7 +19,7 @@ Universal sound separation (USS) aims to extract arbitrary types of sounds from 
 We provide a comprehensive demonstration of our proposed method across various scenarios: 1) **Language-queried target sound extraction for synthetic mixtures** on AudioCaps, comparing against the strong baseline model, AudioSep; 2) **Audio-queried target sound extraction for synthetic mixtures** on ESC50, where we benchmark our method against the audio-queried baseline model, USS; and 3) **Language-queried TSE for real-world recordings** from Freesound (DCASE 2024 Task 9, evaluation set), where we compare our model with AudioSep to showcase its effectiveness in handling real-world data.
 
 Note that the mentioned negative queries are provided only to CLAPSep, as neither AudioSep nor USS support negative queries.
-## Language Queried TES for Synthetic Mixtures on AudioCaps
+## Language-queried TSE for synthetic mixtures on AudioCaps
 
 <table style="margin: 0 auto;">
   <thead>
@@ -127,7 +127,7 @@ Note that the mentioned negative queries are provided only to CLAPSep, as neithe
 
 
 
-## Audio Queried TES for Synthetic Mixtures on ESC50
+## Audio-queried TSE for synthetic mixtures on ESC50
 
 <table style="margin: 0 auto;">
   <thead>
@@ -196,7 +196,7 @@ Note that the mentioned negative queries are provided only to CLAPSep, as neithe
   </tbody>
 </table>
 
-## Language Queried TES for Real-World Recordings from Freesound (DCASE 2024 Task 9 evaluation set (real))
+## Language-queried TSE for real-world recordings from Freesound (DCASE 2024 Task 9 evaluation set (real))
 
 <table style="margin: 0 auto;">
   <thead>
