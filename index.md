@@ -285,7 +285,7 @@ Note that the mentioned negative queries are provided only to CLAPSep, as neithe
     <tr>
       <td><html><audio  controls style="width: 200px;"><source src="audio_real/lass_evaluation_real/test-real-case-153.wav"></audio></html></td>
       <td><html><audio  controls style="width: 200px;"><source src="audio_real/real_ours/test-real-case-153wneg.wav"></audio></html></td>
-      <td><html><audio controls><source src="audio_real/real_sep/test-real-case-153.wav"></audio></html></td>
+      <td><html><audio  controls style="width: 200px;"><source src="audio_real/real_sep/test-real-case-153.wav"></audio></html></td>
     </tr>
 
   </tbody>
